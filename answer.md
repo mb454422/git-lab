@@ -53,4 +53,15 @@ Date:   Thu Sep 7 17:15:40 2023 -0400
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+10. no it hasnt pulled from github yet
+11. Everythign is up to date on this end 
+12.It pulled the changes I comitted on git hub and pulled them into the REEDME on the terminal. 
+13..  ..  SI-Examples  git-lab2  labs
+14
+
+
+9.0n branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
 

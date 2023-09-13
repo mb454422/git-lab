@@ -59,9 +59,3 @@ nothing to commit, working tree clean
 13..  ..  SI-Examples  git-lab2  labs
 14
 
-
-9.0n branch main
-Your branch is up to date with 'origin/main'.
-
-nothing to commit, working tree clean
-
